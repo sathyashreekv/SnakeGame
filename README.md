@@ -35,6 +35,5 @@ The objective is to grow as long as possible without hitting the walls or the sn
 
 ## How to Run
 1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-2 .Run the file in java environmentlike eclipse.
+  
+2 .Run the file in java environment like eclipse.
